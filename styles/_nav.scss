@@ -1,0 +1,14 @@
+.nav {
+background-color: #224242;
+padding: 5px;
+color: #fff;
+display: flex;
+justify-content: center;
+align-items: space-between;
+
+    &__item {
+        font-size: 1.5em;
+        margin: 10px;
+        text-transform: uppercase;
+    }
+}
